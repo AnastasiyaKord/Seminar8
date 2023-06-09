@@ -1,0 +1,5 @@
+C:\Users\akordel\Desktop\Seminar8\Задача55\obj\Debug\net7.0\Задача55.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\Seminar8\Задача55\obj\Debug\net7.0\Задача55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\Seminar8\Задача55\obj\Debug\net7.0\Задача55.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\Seminar8\Задача55\obj\Debug\net7.0\Задача55.AssemblyInfo.cs
+C:\Users\akordel\Desktop\Seminar8\Задача55\obj\Debug\net7.0\Задача55.csproj.CoreCompileInputs.cache
